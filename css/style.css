@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background: #ecf0f1;
+}
+
+p {
+  color: #524c56;
+  font-size: 130%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+}
+
+h1{
+  font-size: 175%;
+  line-height: 155%;
+  font-weight: 500%;
+  color: #524c56;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0;
+}
+
+
+p a{
+  color: #Blue;
+  font-size: 75%;
+}
+
+a:hover{
+  color: #c3d7df;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+  width: auto;
+  margin-bottom: -4px;
+}
